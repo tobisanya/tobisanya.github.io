@@ -6,6 +6,9 @@ categories: [aws]
 comments: true
 excerpt: "This post describes how to configure an EKS cluster to send logs to CloudWatch Logs."
 ---
+
+![eks logs to cloudwatch architecture diagram](https://d2908q01vomqb2.cloudfront.net/fe2ef495a1152561572949784c16bf23abb28057/2021/01/22/image-88.png)
+
 Introduction
 ------------
 
