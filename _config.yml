@@ -1,0 +1,69 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: tobisanya's blog
+email:
+description: Just a way to share my thoughts, opinions, and experiences
+url: https://tobisanya.github.io
+
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/Berlin
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: tobisanya
+  avatar: avatar.jpeg
+  job: "Software Engineer"
+  bio: "Don't imitate, understand"
+  email: 'tobisanya1@gmail.com'
+  disqus-shortname: tobi-sanya
+  twitter: tobi_sanya
+  facebook: sanya.tobi
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: tobisanya
+  gitlab: #username
+  stackoverflow: 1823299/sanya-tobi
+  linkedin: oluwatobi
+  skype: tobi.sanya
+  xing: #username
+  instagram: sanya_tobi
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
